@@ -1,5 +1,5 @@
 # Hello! Nice to meet you!
-# My name is Julya Aiko, for now just a student!
+My name is Julya Aiko, for now just a student!
 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AikoJu)](https://github.com/AikoJu)
