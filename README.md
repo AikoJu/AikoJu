@@ -1,5 +1,3 @@
-<img align="right" alt="chihiro" width="350px" src="https://www.gifcen.com/wp-content/uploads/2022/03/hello-kitty-gif-9.gif">
-
 ## Hello! 👋 Nice to meet you, i am Julya Aiko!🤓
 Olá! Meu nome é Julya Aiko! Prazer te conhecer! 
 
